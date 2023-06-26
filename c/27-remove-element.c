@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/remove-element
+
 int removeElement(int *nums, int numsSize, int val)
 {
     for (int i = 0; i < numsSize; i++)
